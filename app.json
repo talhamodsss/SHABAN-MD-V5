@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "SHABAN-MD~T1ow1Dpa#7aeEhq0HO27qfGlQwks2lk7fQapmr8RQr24UKYuHvAs"
     },  
     
     "STICKER_NAME": {
@@ -79,7 +79,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🪩SEEN YOUR STATUS SHABAN-MD🪩*"
+      "value": "*🪩SEEN YOUR STATUS ⸙𝐌͢ʀͥ𓆩𝐓ᴀ𝐋𝐇ᴀ𓆪 >𓆪 ː͢».. 🤍🏴‍☠️*"
    
      }, 
     
@@ -92,7 +92,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": true,
-      "value": "923043788282"
+      "value": "923124772736
 
     }, 
 
@@ -119,18 +119,18 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*"
+      "value": "false"
     },
 
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
-      "required": true,
+      "required": false,
       "value": "false"
     },
     
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
-      "required": true,
+      "required": false,
       "value": "false"
     },
 
@@ -149,13 +149,13 @@
     "CUSTOM_REACT": {
       "description": "Make it true if you want custom reactions.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     }, 
     
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
-      "required": false,
+      "required": true,
       "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
     }, 
     
